@@ -16,3 +16,9 @@
    ```bash
    pip install -r requirements.txt
    ```
+
+2. Запустите тесты с указанием языка:
+
+   ```bash
+   pytest --language=es test_items.py
+   ```
